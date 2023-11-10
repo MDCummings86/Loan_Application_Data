@@ -1,5 +1,6 @@
 # Loan_Application_Data
-The data has 615 rows and 14 features used in a model to predict loan approval
+The data has 615 rows and 14 features used in a model to predict loan approval. The dataset is sourced from Kaggle and can be reviewed here: https://www.kaggle.com/datasets/vipin20/loan-application-data
+
 
 Overview
 
